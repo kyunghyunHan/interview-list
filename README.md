@@ -54,3 +54,4 @@
 - [채널](https://github.com/kyunghyunHan/go_study/blob/56bbd6e122d560cfab793f7bb5813e4f46378876/channel.md)
 - [자료](https://judo0179.tistory.com/88)
 5. Go에서 selet문은 어떻게 사용되나요 아래코드를 설명해 주세욥
+- [selet](https://hamait.tistory.com/1017)
