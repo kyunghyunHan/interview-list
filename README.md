@@ -50,5 +50,7 @@
 컴파일 타임 등에서 객체가 명세가 충족되었는지 알 수 없기 때문에, 많은 유닛 테스트로 해당 객체가 정상적으로 동작할 수 있는지를 계속 체크해야 한다.
 ```
 3. Go에서 고루틴&채널은 무엇인가요?
+- [고루틴](https://github.com/kyunghyunHan/go_study/blob/56bbd6e122d560cfab793f7bb5813e4f46378876/goroutine.md)
+- [채널](https://github.com/kyunghyunHan/go_study/blob/56bbd6e122d560cfab793f7bb5813e4f46378876/channel.md)
 - [자료](https://judo0179.tistory.com/88)
 5. Go에서 selet문은 어떻게 사용되나요 아래코드를 설명해 주세욥
