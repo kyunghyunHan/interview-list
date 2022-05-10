@@ -1,1 +1,1 @@
-# interview-list
+# 면접정리
