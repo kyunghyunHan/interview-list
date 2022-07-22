@@ -14,3 +14,5 @@ Vary: Accept
     ]
 }
 ```
+
+https://testnets-api.opensea.io/asset/baobab/<contracthash>/1/validate/
