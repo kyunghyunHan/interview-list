@@ -1,17 +1,3 @@
-# 함수
-
-```rs
-fn main() {
-    println!("hello");
-    another_fuction();
-}
-
-fn another_fuction() {
-    println!("another")
-}
-
-```
-
 ## 함수 매개변수
 
 - 함수는 함수 고유한 부분인 특별한 변수 매개변수를 갖는 형식으로 선언될 수 있습니다
