@@ -4,6 +4,7 @@
 - opensea에서 이미지가 보여지지 않음
 
 ## error
+![스크린샷 2022-07-26 오후 10 18 14](https://user-images.githubusercontent.com/88940298/181017566-5a4f30bb-c348-40e3-922f-4fef80d6564c.png)
 
 - tokenuri 및 baseurl까지 작성하고 메타데이터도 규격에 맞춰작성을 하였다.
 - 하지만 아무리 메타데이터를 맞추어도 opensea 테스트넷에서 이미지 및 메타데이터가 뜨질 않았다.
@@ -89,3 +90,6 @@ Vary: Accept
   }
 
 ```
+![스크린샷 2022-07-26 오후 10 26 38](https://user-images.githubusercontent.com/88940298/181017492-f23e5817-35fd-4782-a48b-e8e6987466f5.png)
+
+
